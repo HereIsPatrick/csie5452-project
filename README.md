@@ -1,4 +1,5 @@
-#csie5452-project
+# csie5452-project
+## Goal
 
 Build a Traffic Sign Recognition Project
 
@@ -10,7 +11,7 @@ Design, train and test a model architecture
 
 Compare different CNN architecture, like LeNet, CNN-6, Spatial Transformer Network.
 
-#Appendix
+# Appendix
 - LeNet-5：http://yann.lecun.com/exdb/lenet/
 - STN Keras : https://github.com/hello2all/- GTSRB_Keras_STN/blob/master/capstone_report.pdf
 - deep-learning-with-keras-notebooks : https://github.com/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.1-traffic-signs-recognition.ipynb
